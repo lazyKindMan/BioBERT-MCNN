@@ -1,4 +1,4 @@
-##BioBERET-MCNN
+## BioBERET-MCNN
 This repository provides the code for fune-tuning in Named Entity Recognition (NER) tasks.
 Please refer to our paper [BioBERT-MCNN: A semantic integration approach for biomedical named entity recognition.](https://XXX) for more details
 
